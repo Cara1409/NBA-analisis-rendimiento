@@ -58,21 +58,22 @@ nba_project/
 │   └── clean/               # Datos procesados y limpios listos para análisis y carga a SQL Server
 │
 ├── notebooks/
-│   ├── ETL.ipynb            # Limpieza y normalización de los archivos .csv seleccionados
-│   └── EDA.ipynb            # Análisis exploratorio de datos (EDA), visualizaciones y validaciones
+│   ├── ETL/ETL.ipynb        # Limpieza y normalización de los archivos .csv seleccionados
+│   └── EDA/EDA.ipynb        # Análisis exploratorio de datos (EDA), visualizaciones y validaciones
 │
 ├── dashboard/
-│   ├── canva/               # Presentación del Sprint 1
-│   └── powerbi_reporte.pbix # Dashboard interactivo con visualizaciones e indicadores clave
+│   ├── canva                 # Presentación del Sprint 1
+│   ├── canva                 # Presentación del Sprint 2
+│   └── powerbi_reporte.pbix  # Dashboard interactivo con visualizaciones e indicadores clave
 │
 ├── images/
 │   ├── banner.png           # Imagen para presentación
 │   ├── logo.png             # Imagen del logo de la herramienta
+│   └── architecture.png     # Diagrama del pipeline ETL (Kaggle → Python → GCP → SQL → Power BI)
 │
 ├── docs/
-│   ├── architecture.png     # Diagrama del pipeline ETL (Kaggle → Python → GCP → SQL → Power BI)
 │   ├── propuesta.pdf        # Documento con la propuesta del proyecto
-│   ├── dataset.doc          # Documento que describe las tablas utilizadas
+│   ├── tablas_dataset.doc   # Documento que describe las tablas utilizadas
 │   └── lineamientos.doc     # Documento que explica cómo replicar el proceso realizado
 │
 └── README.md                # Descripción general del proyecto, equipo y guía de ejecución
