@@ -51,7 +51,7 @@ Incluye información demográfica y estadísticas por temporada del desempeño f
 La siguiente estructura organiza el proyecto **“Decisiones Inteligentes en la NBA”**, facilitando la automatización del proceso ETL, la trazabilidad de los datos y la colaboración entre los integrantes del equipo.
 
 ```bash
-nba_project/
+NBA-analisis-rendimiento/
 │
 ├── data/
 │   ├── raw/                 # Datos originales descargados desde Kaggle
