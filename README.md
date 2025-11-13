@@ -46,6 +46,37 @@ Incluye información demográfica y estadísticas por temporada del desempeño f
 
 ---
 
+## 📁 Estructura del Repositorio
+
+La siguiente estructura organiza el proyecto “Decisiones Inteligentes en la NBA”, facilitando la automatización del proceso ETL, la trazabilidad de los datos y la colaboración entre los integrantes del equipo.
+
+nba_project/
+│
+├── data/
+│   ├── raw/                   # Datos originales descargados desde Kaggle
+│   └── clean/                 # Datos procesados y limpios listos para análisis y carga a SQL Server
+│
+├── notebooks/
+│   ├── ETL/.ipynb             # Limpieza y normalización de los archivos .csv seleccionados
+│   ├── EDA/.ipynb             # Análisis exploratorio de datos (EDA), visualizaciones y validaciones
+│
+├── dashboard/
+│   ├── canva                  # Presentación del sprint 1
+│   └── powerbi_reporte.pbix   # Dashboard interactivo con visualizaciones e indicadores clave
+│
+├── images/
+│   ├── banner.png            # Imagen para presentación.
+│   ├── logo.png              # Imagen del logo de la herramienta
+│   └── architecture.png      # Diagrama del pipeline ETL (Kaggle → Python → GCP → SQL → Power BI)
+│
+├── docs/
+│   ├── propuesta.pdf         # Documento con la propuesta del proyecto
+│   ├── dataset.doc           # Documento que describe las tablas
+│   └── lineamientos          # Documento que describe cómo replicar el proceso/trabajo realizado
+│
+│
+└── README.md                 # Descripción general del proyecto, equipo y guía de ejecución
+
 ## ⚙️ Tecnologías utilizadas
 
 | Área | Tecnologías |
