@@ -1,0 +1,13 @@
+Para replicar la aplicación desde la web se Streamlit, se debe tener en cuenta que todos los archivos requeridos deben encontrarse en la misma carpeta dentro de GitHub.
+
+Archivos obligatorios:
+- all_season_filtrado.csv
+- game_filtrado.csv
+- player_filtrado.csv
+- team_filtrado.csv
+- line_score_filtrado.csv
+- nba_puntaje_vara.csv
+- resumen.csv
+- requirements.text
+- app_nba.py
+- Image_logo.png

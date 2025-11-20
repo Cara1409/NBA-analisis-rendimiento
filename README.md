@@ -95,8 +95,20 @@ NBA-analisis-rendimiento/
 | 🗂️ **Gestión del proyecto** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> **Trello** |
 
 ---
-### 🎨 Presentación del proyecto
-👉 **[Ver presentación en Canva](https://www.canva.com/design/DAG4V4wmRxY/nnjWHL9lZ7o93kZhJxNlzQ/edit?utm_content=DAG4V4wmRxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+
+## 🎨 Presentación del proyecto
+
+Esta sección incluye los artefactos clave para la presentación formal y las herramientas de análisis desarrolladas:
+
+👉 Presentación Formal (Canva): Archivo de diapositivas que resume el alcance, la metodología y los hallazgos principales del proyecto.
+[Ver presentación](https://www.canva.com/design/DAG4V4wmRxY/nnjWHL9lZ7o93kZhJxNlzQ/edit?utm_content=DAG4V4wmRxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+👉 Dashboard de Análisis (Power BI): Panel de control interactivo diseñado para la exploración detallada de los datos (actualmente en fase de desarrollo).
+[Ver dashboard]()
+
+👉 Aplicación de Streamlit: Prototipo funcional (MVP) de la solución, que permite interactuar directamente con los modelos o análisis principales.
+[Ver streamlit](https://app-rendimiento-nba.streamlit.app/)
+
 ---
 
 ## 👥 Equipo de trabajo
