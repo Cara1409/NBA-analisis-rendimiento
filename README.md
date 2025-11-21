@@ -112,6 +112,8 @@ Esta sección incluye los artefactos clave para la presentación formal y las he
 👉 Aplicación de Streamlit: Prototipo funcional (MVP) de la solución, que permite interactuar directamente con los modelos o análisis principales.
 [Ver streamlit](https://app-rendimiento-nba.streamlit.app/)
 
+👉 Informe Final: Archivo donde se describe todo el desarrollo del proyecto y los resultados obtenidos. [Ver streamlit](Docs/Informe_proyecto_final.md)
+
 ---
 
 ## 👥 Equipo de trabajo
